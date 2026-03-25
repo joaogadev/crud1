@@ -33,5 +33,10 @@ public class UserController {
     public UserModel procurarId(@PathVariable Long id) {
         return us.findByID(id);
     }
+    @PutMapping("/{id}")
+    public UserModel atualizar(@PathVariable Long id, @RequestBody UserModel user) {
+        user.setId(id);
+        return us.update(user);
+    }
 
 }
