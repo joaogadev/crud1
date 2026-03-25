@@ -27,7 +27,7 @@ Projeto com o objetivo de consolidar os conhecimentos e aprendizados no desenvol
 # 📂 Estrutura Principal do Projeto
 
 ```
-Lumenoteca
+crud1
 │
 ├── src
 │   ├── main
@@ -39,15 +39,15 @@ Lumenoteca
             ├── Service
         ├── resources
 
----
 
+```
 
 # ⚙ Como Executar o Projeto
 
 ### 1️⃣ Clonar o repositório
 
 ```bash
-git clone https://github.com/joaogadev/Lumenoteca.git
+git clone https://github.com/[joaogadev/Lumenoteca.git](https://github.com/joaogadev/crud1.git)
 ```
 
 ### 2️⃣ Entrar na pasta do projeto
